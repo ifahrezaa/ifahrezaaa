@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Irgi
 
-### Full-Stack Developer · Backend Enthusiast · AI Explorer
+### Full-Stack Developer · Backend Enthusiast ·
 
 I'm a developer interested in building modern web applications, backend systems, APIs, and intelligent software.
 
