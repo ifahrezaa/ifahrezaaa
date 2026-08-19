@@ -39,33 +39,6 @@ Database Design
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ifahrezaa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahrezaa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ifahrezaa&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 💡 Philosophy
-
-> Build. Learn. Break. Fix. Repeat. 🚀
-
----
 
 ## 📫 Connect With Me
 
